@@ -5,9 +5,9 @@ Considering the present Covid scenario, this model will detect whether a person 
 # WORKING
 Open Anaconda promt, type the following- 
 * git clone https://github.com/riya0108/FaceMaskDetection.git
- * cd FaceMaskDetection              #change present working directory to newly created FaceMaskDetection
+ * cd FaceMaskDetection                         ## change present working directory to newly created FaceMaskDetection
  * pip install requirements.txt
- * python ModelTraining.py           #open file and change path of directory
+ * python ModelTraining.py                      ## open file and change path of directory
  * python FaceDetect.py
 
 
